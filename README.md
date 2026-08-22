@@ -47,9 +47,6 @@ ChainPass is a blockchain-based ticketing app that lets organizers get event fun
 ## 🙋‍♀️ My Role
 
 - Built the front-end interface using React and Tailwind CSS for the decentralized ticketing platform
-- Integrated RESTful API interactions for NFT-based ticket validation and resale
-- Deployed and maintained the project via GitHub, learning deployment workflows and configuration management
-- Applied fundamental TypeScript and Node.js concepts for understanding backend interactions
 
 ## 👥 Team
 
